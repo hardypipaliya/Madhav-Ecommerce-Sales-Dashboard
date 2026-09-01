@@ -4,8 +4,7 @@ An interactive **Power BI dashboard** designed to analyze ecommerce sales perfor
 
 ## 📌 Project Overview
 
-![Madhav Ecommerce Sales Dashboard](dashboard-preview.png)
-1
+![Madhav Ecommerce Sales Dashboard](dashboard-preview-en.png)
 This project transforms ecommerce sales data into an interactive business intelligence dashboard using **Microsoft Power BI**.
 
 The dashboard helps users understand key business metrics and identify trends in sales, profit, quantity sold, and customer purchasing behavior.
